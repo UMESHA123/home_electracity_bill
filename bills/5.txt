@@ -1,0 +1,14 @@
+		HOMO ELECTRACITY BILL GENERETER
+Name of the consumer:------>name
+Consumer ID:------>123
+Consumer Name and Address:---->name  Angaragatti
+RR number of the consumer:------>321
+Present reading  of the meter:------>1328
+previos reading  of the meter:------>1323
+minimum charge  of the current bill:------>45
+tax of the current bill:------>1.62
+interest of the current bill:------>-3
+The total number of unit used:------>5.0
+The amount per unit is:------------>3.85
+The total amount to pay is:--------->62.290850000000006
+
